@@ -1,3 +1,3 @@
 # NLP
 
-The title of Diabetes Named Entity Recognition
+Diabetes Named Entity Recognition
